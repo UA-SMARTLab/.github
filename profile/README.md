@@ -34,7 +34,7 @@ A digital service that guides people from a broken household appliance to an inf
 <table>
 <tr>
 <td width="240" valign="middle" align="center">
-<a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/Abdulhamid-Baghdadi/main/assets/bittle.gif" alt="Bittle Studio's 3D model of the Petoi Bittle trotting with Petoi's own gait data" width="220"></a>
+<a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/Abdulhamid-Baghdadi/main/assets/bittle.gif" alt="Bittle Studio's 3D model of the Petoi Bittle trotting toward the camera, then sitting up and waving hello" width="220"></a>
 </td>
 <td valign="top">
 <h3><a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio">Bittle Studio</a></h3>
