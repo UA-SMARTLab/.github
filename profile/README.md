@@ -1,4 +1,4 @@
-# SMART Lab · University of Antwerp 👋
+# SMART Lab · University of Antwerp <img src="https://raw.githubusercontent.com/UA-SMARTLab/.github/main/profile/assets/uantwerpen-symbol.png" alt="University of Antwerp" height="36" align="center">
 
 Official GitHub for the SMARTLab, imec-mict-ua, Department of Product Development, University of Antwerp, in collaboration with imec.
 
