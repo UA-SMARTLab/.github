@@ -2,6 +2,8 @@
 
 Official GitHub for the SMARTLab, imec-mict-ua, Department of Product Development, University of Antwerp, in collaboration with imec.
 
+🎓 **[AIPPD: AI Powered Product Design](https://aippd.be/)**: learn to apply AI effectively at every step of your design process.
+
 ---
 
 ## 🤖 Robotics & education
@@ -45,6 +47,21 @@ A browser app that guides a PRISMA-ScR scoping review from the first idea to the
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph">git-graph: a Claude Code mod</a></h3>
 Adds two panes to the Claude desktop app: a commit graph of the current repo (branch lanes, worktrees, commit and push) and a portfolio with one activity card per local project. It runs local git only.<br>
 <sub><b>TypeScript · TSX · SVG rendering · Claude Code mod API</b></sub>
+</td>
+</tr>
+</table>
+
+## 🎓 Student projects
+
+<table>
+<tr>
+<td width="240" valign="middle" align="center">
+<a href="https://www.masterexpo-ontwerpwetenschappen.be/project/jorre-vrambout/"><img src="https://www.masterexpo-ontwerpwetenschappen.be/wp-content/uploads/2026/08/Vrambout-Jorre_Ontwerp_beeld1_626779.jpg" alt="Repair Aid, a master's project by Jorre Vrambout" width="220"></a>
+</td>
+<td valign="top">
+<h3><a href="https://www.masterexpo-ontwerpwetenschappen.be/project/jorre-vrambout/">Repair Aid: the future of repair</a> <sub>· Jorre Vrambout, 2025–2026</sub></h3>
+A digital service that guides people from a broken household appliance to an informed repair choice. It combines historical repair data, user observations and agentic AI to rank the likely faults, then points to self-repair, guided repair or professional repair. Master's thesis in Product Development, supervised by Jelle Saldien and Philip Van Pelt.<br>
+<sub><b>Agentic AI · circular design · service design</b></sub>
 </td>
 </tr>
 </table>
