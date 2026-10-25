@@ -27,6 +27,11 @@ A digital service that guides people from a broken household appliance to an inf
 <sub><b>Agentic AI · circular design · service design</b></sub>
 </td>
 </tr>
+</table>
+
+## 🛠️ Research and developer tools
+
+<table>
 <tr>
 <td width="240" valign="middle" align="center">
 <a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/Abdulhamid-Baghdadi/main/assets/bittle.gif" alt="Bittle Studio's 3D model of the Petoi Bittle trotting with Petoi's own gait data" width="220"></a>
