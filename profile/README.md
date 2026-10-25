@@ -2,8 +2,6 @@
 
 Official GitHub for the SMARTLab, imec-mict-ua, Department of Product Development, University of Antwerp, in collaboration with imec.
 
-🎓 **[AIPPD: AI Powered Product Design](https://aippd.be/)**: learn to apply AI effectively at every step of your design process.
-
 ---
 
 ## 🤖 Robotics & education
@@ -51,9 +49,19 @@ Adds two panes to the Claude desktop app: a commit graph of the current repo (br
 </tr>
 </table>
 
-## 🎓 Student projects
+## ✨ Selected projects
 
 <table>
+<tr>
+<td width="240" valign="middle" align="center">
+<a href="https://aippd.be/"><img src="https://raw.githubusercontent.com/UA-SMARTLab/.github/main/profile/assets/aippd.svg" alt="AIPPD sketched as 3D block letters in blue pencil" width="220"></a>
+</td>
+<td valign="top">
+<h3><a href="https://aippd.be/">AIPPD: AI Powered Product Design</a></h3>
+Learn to apply AI effectively at every step of your design process.<br>
+<sub><b>AI · product design · education</b></sub>
+</td>
+</tr>
 <tr>
 <td width="240" valign="middle" align="center">
 <a href="https://www.masterexpo-ontwerpwetenschappen.be/project/jorre-vrambout/"><img src="https://www.masterexpo-ontwerpwetenschappen.be/wp-content/uploads/2026/08/Vrambout-Jorre_Ontwerp_beeld1_626779.jpg" alt="Repair Aid, a master's project by Jorre Vrambout" width="220"></a>
