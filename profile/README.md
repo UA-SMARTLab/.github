@@ -1,6 +1,6 @@
 # SMART Lab · University of Antwerp 👋
 
-We build tools for **robotics, product development and research**: robots you can program and simulate, and browser apps that keep research work reproducible.
+Official GitHub for the SMARTLab, imec-mict-ua, Department of Product Development, University of Antwerp, in collaboration with imec.
 
 ---
 
