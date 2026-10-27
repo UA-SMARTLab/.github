@@ -52,14 +52,4 @@ A browser app that guides a PRISMA-ScR scoping review from the first idea to the
 <sub><b>JavaScript · offline browser app · Obsidian</b></sub>
 </td>
 </tr>
-<tr>
-<td width="240" valign="middle" align="center">
-<a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/claude-git-graph/main/docs/git-graph.svg" alt="Commit graph drawn by the git-graph mod" width="220"></a>
-</td>
-<td valign="top">
-<h3><a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph">git-graph: a Claude Code mod</a></h3>
-Adds two panes to the Claude desktop app: a commit graph of the current repo (branch lanes, worktrees, commit and push) and a portfolio with one activity card per local project. It runs local git only.<br>
-<sub><b>TypeScript · TSX · SVG rendering · Claude Code mod API</b></sub>
-</td>
-</tr>
 </table>
