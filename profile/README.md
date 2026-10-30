@@ -29,19 +29,38 @@ A digital service that guides people from a broken household appliance to an inf
 </tr>
 </table>
 
-## 🛠️ Research and developer tools
+## 🎓 Lectures
+
+Courses this lab teaches in Product Development at the University of Antwerp, each with the interactive tool students work with.
 
 <table>
+<tr>
+<td width="240" valign="middle" align="center">
+<a href="https://ua-smartlab.github.io/arduino-grove-emulator/"><img src="https://raw.githubusercontent.com/UA-SMARTLab/.github/main/profile/assets/grove-kit-emulator.svg" alt="Animated Arduino UNO R4 with the Grove shield and sensors plugged in: the servo swings, the knob turns and the LED strip cycles through colours" width="220"></a>
+</td>
+<td valign="top">
+<h3><a href="https://www.uantwerpen.be/nl/personeel/abdulhamid-baghdadi_29785/onderwijs/?id=2026-1047FOWPOW&lang=nl&source=personal">Electronic Aspects of Products</a> <sub>· Elektronische aspecten van producten</sub></h3>
+Students learn to read sensors, drive LEDs, motors and displays, and program an Arduino with the Grove kit.<br>
+<b>Tool: <a href="https://github.com/UA-SMARTLab/arduino-grove-emulator">Grove Kit Emulator</a></b>, an Arduino UNO R4 + Grove kit in the browser. Students plug the modules into the shield, and their sketch is compiled by a real C++ compiler and runs as on the board, with the course exercises built in. <a href="https://ua-smartlab.github.io/arduino-grove-emulator/">Open the emulator →</a><br>
+<sub><b>C++ · WebAssembly · Arduino · electronics education</b></sub>
+</td>
+</tr>
 <tr>
 <td width="240" valign="middle" align="center">
 <a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/Abdulhamid-Baghdadi/main/assets/bittle.gif" alt="Bittle Studio's 3D model of the Petoi Bittle trotting toward the camera, then sitting up and waving hello" width="220"></a>
 </td>
 <td valign="top">
-<h3><a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio">Bittle Studio</a></h3>
-Design, simulate and send motions to a Petoi Bittle robot dog. It has a pose-by-pose motion timeline, a 3D PyBullet physics simulation that runs the firmware's own skills, and a Bluetooth console for the real robot that explains every serial command in plain language. Motions export as shareable packs or Python scripts. <a href="https://ua-productdevelopment-tdd.github.io/Bittle_Studio/">Live robot console →</a><br>
+<h3><a href="https://www.uantwerpen.be/nl/personeel/abdulhamid-baghdadi_29785/onderwijs/?id=2026-2053FOWPOW&lang=nl&source=personal">Technology-Driven Design</a> <sub>· Technologie Gedreven Ontwerpen</sub></h3>
+Students design behaviour for a robot and test it in simulation before running it on the real thing.<br>
+<b>Tool: <a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio">Bittle Studio</a></b>. Design, simulate and send motions to a Petoi Bittle robot dog. It has a pose-by-pose motion timeline, a 3D PyBullet physics simulation that runs the firmware's own skills, and a Bluetooth console for the real robot that explains every serial command in plain language. Motions export as shareable packs or Python scripts. <a href="https://ua-productdevelopment-tdd.github.io/Bittle_Studio/">Live robot console →</a><br>
 <sub><b>Python · PyBullet · 3D web viewer · Web Bluetooth · robotics education</b></sub>
 </td>
 </tr>
+</table>
+
+## 🛠️ Research and developer tools
+
+<table>
 <tr>
 <td width="240" valign="middle" align="center">
 <a href="https://github.com/Abdulhamid-Baghdadi/scoping-review-workbench"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/Abdulhamid-Baghdadi/main/assets/scoping-review-cycle.gif" alt="The five phases of a scoping review in the workbench: plan, find, select, chart, report" width="220"></a>
