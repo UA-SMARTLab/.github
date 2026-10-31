@@ -73,12 +73,16 @@ A browser app that guides a PRISMA-ScR scoping review from the first idea to the
 </tr>
 <tr>
 <td width="240" valign="middle" align="center">
-<a href="https://ua-smartlab.github.io/methodical-card-game/app/"><img src="https://raw.githubusercontent.com/UA-SMARTLab/.github/main/profile/assets/methodical-cards.png" alt="Three Methodical cards fanned out: case–control study, randomized controlled trial and co-citation analysis" width="220"></a>
+<a href="https://ua-smartlab.github.io/science-game-kit/"><img src="https://raw.githubusercontent.com/UA-SMARTLab/.github/main/profile/assets/science-game-kit.png" alt="One card from each game in the kit, fanned out: Methodical's case–control study, Major Revisions' missing-data request and Red Flag's Simpson's paradox" width="220"></a>
 </td>
 <td valign="top">
-<h3><a href="https://ua-smartlab.github.io/methodical-card-game/app/">Methodical</a> <sub>· the research design card game</sub></h3>
-A card game that teaches research design: read a research problem, pick the study design that can actually answer it, then defend it against the biases a reviewer throws at it. 73 problems from medicine to robotics, and 59 designs, 28 threats and 33 safeguards, each linked to the paper that defines it. Plays in the browser or prints as a deck. <a href="https://ua-smartlab.github.io/methodical-card-game/app/">Play in your browser →</a> · <a href="https://github.com/UA-SMARTLab/methodical-card-game">Source</a><br>
-<sub><b>Research methods · evidence synthesis · game-based learning</b></sub>
+<h3><a href="https://ua-smartlab.github.io/science-game-kit/">Science Game Kit</a> <sub>· card games for research methods</sub></h3>
+Three card games that help researchers refresh their research-methods knowledge, each at one moment in the life of a study.
+<b><a href="https://ua-smartlab.github.io/methodical-card-game/app/">Methodical</a></b>: plan the study, by picking the method that can answer a research problem and defending it against a reviewer's bias.
+<b><a href="https://ua-smartlab.github.io/major-revisions-card-game/app/">Major Revisions</a></b>: review the manuscript, by finding the flaw planted in it with the right reporting-guideline requests.
+<b><a href="https://ua-smartlab.github.io/red-flag-card-game/app/">Red Flag</a></b>: judge the claim, by flagging its reasoning error or calling it sound.
+Every key concept links to its source. All play in the browser or print as decks. <a href="https://ua-smartlab.github.io/science-game-kit/">Open the kit →</a><br>
+<sub><b>Research methods · peer review · critical appraisal · game-based learning</b></sub>
 </td>
 </tr>
 </table>
